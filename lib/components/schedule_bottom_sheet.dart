@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
 
-import '../colors.dart';
+import '../const/colors.dart';
 import 'custom_text_field.dart';
 import 'package:get_it/get_it.dart';
 import 'package:drift/drift.dart' hide Column;

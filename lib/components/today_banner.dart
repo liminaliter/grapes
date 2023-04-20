@@ -1,4 +1,4 @@
-import 'package:dosomething/colors.dart';
+import 'package:dosomething/const/colors.dart';
 import 'package:flutter/material.dart';
 
 class TodayBanner extends StatelessWidget {
