@@ -12,12 +12,12 @@ void main() async {
 
   await initializeDateFormatting();
 
-  final database = LocalDatabase(); // ➊ 데이터베이스 생성
+  final database = LocalDatabase(); //
 
   final repository = ScheduleRepository();
   final scheduleProvider = ScheduleProvider(repository: repository);
 
-  GetIt.I.registerSingleton<LocalDatabase>(database); // ➋ GetIt에
+  GetIt.I.registerSingleton<LocalDatabase>(database);
 
   runApp(
     ChangeNotifierProvider(
