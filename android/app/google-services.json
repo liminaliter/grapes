@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "468993581118",
+    "project_id": "pulse-cd0cd",
+    "storage_bucket": "pulse-cd0cd.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:468993581118:android:e557aa03c65572cc3d316f",
+        "android_client_info": {
+          "package_name": "com.example.dosomething"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "468993581118-ttp21ne96rsfk0fqqhdqev0s2dphub49.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAGGgd0SqL0VBvBDOsj745NJCph84rS0uk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "468993581118-ttp21ne96rsfk0fqqhdqev0s2dphub49.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
