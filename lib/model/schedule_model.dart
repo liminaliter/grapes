@@ -33,8 +33,6 @@ class ScheduleModel {
   }
 
   ScheduleModel copyWith({
-    // 불변 인스턴스 불가피하게 변경해줘야할때 copyWith, 입력하지 않은 값들을 그대로 보존하고
-    // 그대로 보존하고 새로 저장 가능
     String? id,
     String? content,
     DateTime? date,
